@@ -1,5 +1,4 @@
 # IC-Stripline-Design
-Beginning stages of designing an IC stripline to test the electromagnetic compatibility of integrated circuits
 
 In the attached scanned document is some information about the specifications of designing an IC stripline
 
